@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex>
+	<pokemon>
+		<number>
+			0001
+		</number>
+	    <name>
+			Bulbasaur
+		</name>
+		<description>
+			Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
+		</description>
+	    <type_1>
+			Grass
+		</type_1>
+		<type_2>
+			Poison
+		</type_2>
+		<type_3>
+			
+		</type_3>
+		<type_4>
+			
+		</type_4>
+	    <weakness_1>
+			Fire
+		</weakness_1>
+	    <weakness_2>
+			Flying
+		</weakness_2>
+	    <weakness_3>
+			Ice
+		</weakness_3>
+	    <weakness_4>
+			Psychic
+		</weakness_4>
+		<weakness_4>
+			Psychic
+		</weakness_4>
+		<weakness_5>
+			
+		</weakness_5>
+		<weakness_6>
+			
+		</weakness_6>
+		<stats_hp>
+			2
+		</stats_hp>
+		<stats_attack>
+			3
+		</stats_attack>
+		<stats_defense>
+			2
+		</stats_defense>
+		<stats_special_attack>
+			3
+		</stats_special_attack>
+		<stats_special_defense>
+			3
+		</stats_special_defense>
+		<stats_speed>
+			3
+		</stats_speed>
+		<height>
+			2' 04''
+		</height>
+		<weight>
+			15.2 lbs
+		</weight>
+		<gender_1>
+			Male
+		</gender_1>
+		<gender_2>
+			Female
+		</gender_2>
+		<category>
+			Seed
+		</category>
+		<abilities>
+			Overgrow
+		</abilities>
+		<evolution_previous>
+			
+		</evolution_previous>
+		<evolution_next>
+			Ivysaur
+		</evolution_next>
+	</pokemon>
+</pokedex>
